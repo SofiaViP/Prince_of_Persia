@@ -22,9 +22,9 @@ Here you can find everything about the game and its development:
 
 This project was developed by 
 
-* Athos Freitas
+* [Athos Freitas](https://github.com/athoscf)
 * Benedita Bacelar
-* João Figueiredo
-* Sofia Pinto
+* [João Figueiredo](https://github.com/Oao26)
+* [Sofia Pinto](https://github.com/SofiaViP)
 
 Thank you!
