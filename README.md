@@ -2,6 +2,8 @@
 
 Welcome to our representation of the timeless **Prince_of_Persia**!
 
+[![](docs/img/video.png)](https://youtu.be/klp8xJBnNeQ)
+
 Here you can find everything about the game and its development:
 
 
