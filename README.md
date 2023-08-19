@@ -17,7 +17,7 @@ Here you can find everything about the game and its development:
    
    1.5. [Fighting Screen](docs/UserInstructions.md#1.5.-Fighting-Screen)
    
-   1.6. [Scoreboard](docs/UserInstructions.md#1.6.-Scoreboard)
+   1.6. [Scoreboard](docs/UserInstructions.md#16-Scoreboard)
 
 
 This project was developed by 
