@@ -21,6 +21,20 @@ Here you can find everything about the game and its development:
    
    1.6. [Scoreboard](docs/UserInstructions.md#16-Scoreboard)
 
+2. [Project Status](docs/ProjectStatus.md)
+
+   2.1. [IO Devices Used](docs/ProjectStatus.md#21-IO-Devices-Used)
+   
+   2.2. [Timer](docs/ProjectStatus.md#22-Timer)
+   
+   2.3. [Keyboard](docs/ProjectStatus.md#23-Keyboard)
+   
+   2.4. [Mouse](docs/ProjectStatus.md#24-Mouse)
+   
+   2.5. [Graphics Card](docs/ProjectStatus.md#25-Graphics-Card)
+   
+   2.6. [Real Time Clock](docs/ProjectStatus.md#26-Real-Time-Clock)
+
 
 This project was developed by 
 
