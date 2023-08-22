@@ -35,6 +35,16 @@ Here you can find everything about the game and its development:
    
    2.6. [Real Time Clock](docs/ProjectStatus.md#26-Real-Time-Clock)
 
+3. [Implementation Details](docs/Implementation.md)
+
+   3.1. [Mudar](docs/Implementation.md#41-Triple-Buffering)
+
+4. [Implementation Details](docs/Implementation.md)
+
+   4.1. [Triple Buffering](docs/Implementation.md#41-Triple-Buffering)
+   
+   4.2. [RTC](docs/Implementation.md#42-RTC)
+
 
 This project was developed by 
 
