@@ -35,9 +35,42 @@ Here you can find everything about the game and its development:
    
    2.6. [Real Time Clock](docs/ProjectStatus.md#26-Real-Time-Clock)
 
-3. [Code Organization](docs/Implementation.md)
+3. [Code Organization](docs/CodeOrganization.md)
 
-   3.1. [Mudar](docs/Implementation.md#41-Triple-Buffering)
+   3.1. [Function Call Graph](docs/CodeOrganization.md#31-Function-Call-Graph)
+
+   3.2. [main.c](docs/CodeOrganization.md#32-mainc)
+   
+   3.3. [kbd.c](docs/CodeOrganization.md#33-kbdc)
+   
+   3.4. [rtc.c](docs/CodeOrganization.md#34-rtcc)
+   
+   3.5. [timer.c](docs/CodeOrganization.md#35-timerc)
+   
+   3.6. [mouse.c](docs/CodeOrganization.md#36-mousec)
+
+   3.7. [state.c](docs/CodeOrganization.md#37-statec)
+
+   3.8. [utils.c](docs/CodeOrganization.md#38-utilsc)
+   
+   3.9. [video_gr.c](docs/CodeOrganization.md#39-videogrc)
+   
+   3.10. [map.c](docs/CodeOrganization.md#310-mapc)
+   
+   3.11. [prince.c](docs/CodeOrganization.md#311-princec)
+   
+   3.12. [princess.c](docs/CodeOrganization.md#312-pricessc)
+
+   3.13. [thief.c](docs/CodeOrganization.md#313-thiefc)
+
+   3.14. [target.c](docs/CodeOrganization.md#314-targetc)
+   
+   3.15. [text.c](docs/CodeOrganization.md#315-textc)
+   
+   3.16. [scoreboard.c](docs/CodeOrganization.md#316-scoreboardc)
+   
+   3.17. [Data Structures](docs/CodeOrganization.md#317-Data-Structures)
+   
 
 4. [Implementation Details](docs/Implementation.md)
 
