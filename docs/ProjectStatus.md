@@ -50,7 +50,7 @@ To configure the graphics card we call our **vg_init(uint16_t mode)** function w
 
 **Note:** *Number of colors = $2^8 \times 2^8 \times 2^8$
 
-We decided to implement **triple buffering** via copy, as a mean to provide the animations found in every menu, using the **swap_buffers(bool buffer)** function. You can find more information about this, in the [Triple Buffering](Implementation.md#Triple_Buffering) subsection.
+We decided to implement **triple buffering** via copy, as a mean to provide the animations found in every menu, using the **swap_buffers(bool buffer)** function. You can find more information about this, in the [Triple Buffering](Implementation.md#Triple-Buffering) subsection.
 
 As mentioned before, we take advantage of the Video Card to animate our prince, targets and cursor. For this, we make use of the combination of **draw_xpm(xpm_image img, uint16_t x, uint16_t y, bool buffer)** and **erase_xpm(xpm_image img, uint16_t x, uint16_t y, bool buffer)**.
 
